@@ -1,0 +1,13 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/jamen/Dropbox/JAIRO MENA/Working/UBA/CSE/Trabajo Final de Carrera/pruebas_unitarias_TFC/hdmi/hdmi.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/jamen/Dropbox/JAIRO MENA/Working/UBA/CSE/Trabajo Final de Carrera/pruebas_unitarias_TFC/hdmi/hdmi.srcs/sources_1/ip/clock_manager/clock_manager.v,1540243034,verilog,,,,clock_manager,,,../../../../hdmi.srcs/sources_1/ip/clock_manager,,,,,
+C:/Users/jamen/Dropbox/JAIRO MENA/Working/UBA/CSE/Trabajo Final de Carrera/pruebas_unitarias_TFC/hdmi/hdmi.srcs/sources_1/ip/clock_manager/clock_manager_clk_wiz.v,1540243034,verilog,,C:/Users/jamen/Dropbox/JAIRO MENA/Working/UBA/CSE/Trabajo Final de Carrera/pruebas_unitarias_TFC/hdmi/hdmi.srcs/sources_1/ip/clock_manager/clock_manager.v,,clock_manager_clk_wiz,,,../../../../hdmi.srcs/sources_1/ip/clock_manager,,,,,
+C:/Users/jamen/Dropbox/JAIRO MENA/Working/UBA/CSE/Trabajo Final de Carrera/pruebas_unitarias_TFC/hdmi/hdmi.srcs/sources_1/new/dvi.vhd,1540240193,vhdl,,,,dvi,,,,,,,,
+C:/Users/jamen/Dropbox/JAIRO MENA/Working/UBA/CSE/Trabajo Final de Carrera/pruebas_unitarias_TFC/hdmi/hdmi.srcs/sources_1/new/hdmi.vhd,1596381719,vhdl,,,,hdmi,,,,,,,,
+C:/Users/jamen/Dropbox/JAIRO MENA/Working/UBA/CSE/Trabajo Final de Carrera/pruebas_unitarias_TFC/hdmi/hdmi.srcs/sources_1/new/main.vhd,1540501590,vhdl,,,,main,,,,,,,,
+C:/Users/jamen/Dropbox/JAIRO MENA/Working/UBA/CSE/Trabajo Final de Carrera/pruebas_unitarias_TFC/hdmi/hdmi.srcs/sources_1/new/ram.vhd,1596385840,vhdl,,,,ram,,,,,,,,
+C:/Users/jamen/Dropbox/JAIRO MENA/Working/UBA/CSE/Trabajo Final de Carrera/pruebas_unitarias_TFC/hdmi/hdmi.srcs/sources_1/new/timing.vhd,1596381636,vhdl,,,,timing_memory,,,,,,,,
+C:/Users/jamen/Dropbox/JAIRO MENA/Working/UBA/CSE/Trabajo Final de Carrera/pruebas_unitarias_TFC/hdmi/hdmi.srcs/sources_1/new/tmds.vhd,1540501560,vhdl,,,,tmds,,,,,,,,

@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../hdmi.srcs/sources_1/new/dvi.vhd" \
+"../../../../hdmi.srcs/sources_1/new/hdmi.vhd" \
+"../../../../hdmi.srcs/sources_1/new/ram.vhd" \
+"../../../../hdmi.srcs/sources_1/new/timing.vhd" \
+"../../../../hdmi.srcs/sources_1/new/tmds.vhd" \
+"../../../../hdmi.srcs/sources_1/new/main.vhd" \
+
+# Do not sort compile order
+nosort
